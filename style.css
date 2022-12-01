@@ -283,10 +283,10 @@ footer{
         flex-wrap: wrap;
     }
     .info-containers img {
-        width: 300px;
+        width: 200px;
     }
     .img-slides img {
-        width: 300px;
+        width: 200px;
     }
     .img-slides{
         flex-wrap: wrap;
